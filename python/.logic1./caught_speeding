@@ -6,3 +6,5 @@ def caught_speeding(speed, is_birthday):
   if speed<=80:
     return 1
   return 2
+# read question properly here we have increase spped if birthday is true its means we have decerese pay vaule of ticket
+
